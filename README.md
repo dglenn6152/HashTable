@@ -1,4 +1,0 @@
-HashTable-
-==========
-
-Hash-Table Implementation 
